@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# **Jin Wu’s HomePage**
+Jin Wu’s HomePage
+======
 <br/>
 <br/>
 
@@ -27,19 +28,18 @@ Selected Awards
   *East China Normal University* | *2024.06 - 2024.10* | *Project Leader*.
 * Alibaba ModelScope "AI Empowers Education" Project, \\
   **[Team First Prize](./files/ALIBABA_MODELSCOPE_TEAM_PRIZE.pdf)** | 2025.04
-  
-Related Talks & Presentations
-======
-* **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)** | [**<font color="red">Best Oral Award, Only 2 people</font>**](/files/EITCE_2024.pdf)\\
-  A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 Publications
 ======
 1. MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning  
   **Jin Wu**, Chanjin Zheng. 2025 CogInterp @ **NeurIPS**
 2. An Interpretable Polytomous Cognitive Diagnosis Framework for PredictingExaminee Performance  
-   Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management** 
-  
+   Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management**
+
+Related Talks & Presentations
+======
+* **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)** | [**<font color="red">Best Oral Award, Only 2 people</font>**](/files/EITCE_2024.pdf)\\
+  A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 Professional Services
 ======
