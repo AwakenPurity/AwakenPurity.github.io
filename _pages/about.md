@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 # **Jin Wu’s HomePage**
+<br/>
+<br/>
 
-Welcome to my Homepage! I'm a Ph.D. Candidate student at East China Normal University, Shanghai, China. Currently, My primary areas of interest in research are **Natural Language Processing**, **Computational Linguistics**, and **Intelligent Education**.
-  
+About Me
+======
+Welcome to my homepage! I am a Ph.D. candidate at **East China Normal University (ECNU)** in Shanghai. My research lies in the field of **Natural Language Processing**, with a particular focus on **Process-oriented Cognitive Diagnosis** and **Structured Reasoning** for **LLM Agents**.
 
 Selected Awards
 ======
