@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "🕧"
     url: /
     
   # - title: "Talks and Blogs"
@@ -9,7 +9,7 @@ main:
   # - title: "Publications"
   #   url: /publications/
     
-  - title: "Tools"
+  - title: "🛠️"
     url: /tools/
           
   # - title: "中文"
