@@ -6,11 +6,11 @@ main:
   # - title: "Talks and Blogs"
   #   url: /talks/  
         
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     
-  - title: "Tools"
-    url: /tools/
+  # - title: "Tools"
+  #   url: /tools/
           
   # - title: "中文"
   #   url: /chinese/
