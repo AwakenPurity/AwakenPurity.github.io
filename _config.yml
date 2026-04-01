@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jin Wu"
 title_separator          : "-"
-name                     : &name "Jin Wu"
+name                     : &name "Jin Wu’s HomePage"
 description              : &description "Ph.D. Candidate @ ECNU"
 url                      : https://AwakenPurity.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
