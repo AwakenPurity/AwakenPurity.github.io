@@ -36,6 +36,8 @@ Publications
 [2026] PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback  
   Wei Xia, **Jin Wu**★, Haoran Shi, Xiangyu Wang, Chanjin Zheng. 2026 **ACL Findings**    
 
+[2026] The Best of Two Worlds: IRT-Enhanced Automated Essay Interpretable Scoring  
+  Wei Xia, Jin Wu, Jiarui Yu, Chanjin Zheng. 2026 **Behavioral Sciences**  
 
 [2025] MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning  
   **Jin Wu**, Chanjin Zheng. 2025 CogInterp @ **NeurIPS**  
