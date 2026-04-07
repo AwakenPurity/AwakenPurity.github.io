@@ -31,10 +31,10 @@ Selected Awards
 
 Publications
 ======
-[★: Supervisor as first author, student as second author; *: corresponding author​]  
+[★: Supervisor as first author, student as second author; ▲: Co-author; *: corresponding author​]  
 
 [2026] PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback  
-  Wei Xia, **Jin Wu**★, Haoran Shi, Xiangyu Wang, Chanjin Zheng. 2026 **ACL Findings**    
+  Wei Xia, **Jin Wu**<sup>▲</sup>, Haoran Shi, Xiangyu Wang, Chanjin Zheng. 2026 **ACL Findings**    
 
 [2026] The Best of Two Worlds: IRT-Enhanced Automated Essay Interpretable Scoring  
   Wei Xia, Jin Wu, Jiarui Yu, Chanjin Zheng. 2026 **Behavioral Sciences**  
@@ -46,13 +46,13 @@ Publications
    Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management** 
 
 [2023] A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning  
-   Le Sun, **Jin Wu**, Yang Xu, Yanchun Zhang. 2023 **Information Sciences**  
+   Le Sun, **Jin Wu**<sup>★</sup>, Yang Xu, Yanchun Zhang. 2023 **Information Sciences**  
 
 [2022] A Scalable and Transferable Federated Learning System for Classifying Healthcare Sensor Data    
-   Le Sun, Jin Wu. 2022 **IEEE Journal of Biomedical and Health Informatics**   
+   Le Sun, **Jin Wu**<sup>★</sup>. 2022 **IEEE Journal of Biomedical and Health Informatics**   
 
 [2022] A Micro Neural Network for Healthcare Sensor Data Stream Classification in Sustainable and Smart Cities  
-   Jin Wu, Le Sun, Dandan Peng, Siuly Siuly. 2022 **Computational Intelligence and Neuroscience**  
+   **Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly. 2022 **Computational Intelligence and Neuroscience**  
 
 Related Talks & Presentations
 ======
