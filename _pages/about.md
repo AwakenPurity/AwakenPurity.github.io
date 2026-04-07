@@ -45,6 +45,15 @@ Publications
 [2025] An Interpretable Polytomous Cognitive Diagnosis Framework for PredictingExaminee Performance  
    Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management** 
 
+[2023] A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning  
+   Le Sun, **Jin Wu**, Yang Xu, Yanchun Zhang. 2023 **Information Sciences**  
+
+[2022] A Scalable and Transferable Federated Learning System for Classifying Healthcare Sensor Data    
+   Le Sun, Jin Wu. 2022 **IEEE Journal of Biomedical and Health Informatics**   
+
+[2022] A Micro Neural Network for Healthcare Sensor Data Stream Classification in Sustainable and Smart Cities  
+   Jin Wu, Le Sun, Dandan Peng, Siuly Siuly. 2022 **Computational Intelligence and Neuroscience**  
+
 Related Talks & Presentations
 ======
 * **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)** | [**<font color="red">Best Oral Award, Only 2 people</font>**](/files/EITCE_2024.pdf)\\
