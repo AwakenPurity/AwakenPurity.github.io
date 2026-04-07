@@ -31,10 +31,17 @@ Selected Awards
 
 Publications
 ======
-1. MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning  
-  **Jin Wu**, Chanjin Zheng. 2025 CogInterp @ **NeurIPS**
-2. An Interpretable Polytomous Cognitive Diagnosis Framework for PredictingExaminee Performance  
-   Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management**
+[★: Supervisor as first author, student as second author; *: corresponding author​]  
+
+[2026] PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback  
+  Wei Xia, **Jin Wu**★, Haoran Shi, Xiangyu Wang, Chanjin Zheng. 2026 **ACL Findings**    
+
+
+[2025] MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning  
+  **Jin Wu**, Chanjin Zheng. 2025 CogInterp @ **NeurIPS**  
+  
+[2025] An Interpretable Polytomous Cognitive Diagnosis Framework for PredictingExaminee Performance  
+   Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management** 
 
 Related Talks & Presentations
 ======
