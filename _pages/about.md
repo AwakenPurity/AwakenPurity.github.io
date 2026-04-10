@@ -39,6 +39,12 @@ Publications
 [2026] The Best of Two Worlds: IRT-Enhanced Automated Essay Interpretable Scoring  
   Wei Xia, **Jin Wu**, Jiarui Yu, Chanjin Zheng. 2026 **Behavioral Sciences**  
 
+[2026] The Best of Two Worlds: An IRT-Enhanced Framework for Interpretable and Generalizable Automated Essay Scoring  
+   Wei Xia, **Jin Wu**, Chanjin Zheng. 2026 **Amercian Educational Research Association** (AREA, Top Education Conference)  
+
+[2026] FCRD: Forced-Choice Relation-based Diagnosis for Noncognitive Assessment  
+  Yukun Tu, Xiaoyu Li, Haoran Shi, **Jin Wu**, Chanjin Zheng. 2026 **DASFAA**  
+
 [2025] MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning  
   **Jin Wu**, Chanjin Zheng. 2025 CogInterp @ **NeurIPS**  
   
