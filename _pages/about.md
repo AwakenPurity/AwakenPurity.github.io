@@ -55,10 +55,6 @@ Projects
 [1] **Research on Adaptive Assessment Framework Driven by Cognitive Diagnosis**, _ECNU Academic Innovation Promotion Program for Excellent Doctoral Students_ | *2024.06 - 2024.10* | *Principal Investigator*.  
 [2] **Research on Cognitive Diagnosis Framework Driven by Continual Learning**, _ECNU Interdisciplinary Research Grant Project_ | *2024.11 - 2025.06* | *Principal Investigator*.  
 
-Related Talks & Presentations
-======
-* **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)** | [**<font color="red">Best Oral Award, Only 2 people</font>**](/files/EITCE_2024.pdf)\\
-  A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 Professional Services
 ======
