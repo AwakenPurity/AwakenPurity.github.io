@@ -9,8 +9,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
     
-  - title: "<span style='font-size: 30px;'>🛠️</span>"
-    url: /tools/
+  # - title: "<span style='font-size: 30px;'>🛠️</span>"
+  #   url: /tools/
           
   # - title: "中文"
   #   url: /chinese/
