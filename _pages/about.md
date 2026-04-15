@@ -37,7 +37,7 @@ Publications
 [2025] MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning  
   **Jin Wu**, Chanjin Zheng. 2025 CogInterp @ **NeurIPS**.  
   
-[2025] An Interpretable Polytomous Cognitive Diagnosis Framework for PredictingExaminee Performance  
+[2025] An Interpretable Polytomous Cognitive Diagnosis Framework for Predicting Examinee Performance  
    Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2025 **Information Processing & Management**. 
 
 [2023] A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning  
