@@ -55,8 +55,8 @@ Publications
 Projects
 ======
 
-[1] **Research on Adaptive Assessment Framework Driven by Cognitive Diagnosis**, _ECNU Academic Innovation Promotion Program for Excellent Doctoral Students_ | *2024.06 - 2024.10* | *Principal Investigator*.  
-[2] **Research on Cognitive Diagnosis Framework Driven by Continual Learning**, _ECNU Interdisciplinary Research Grant Project_ | *2024.11 - 2025.06* | *Principal Investigator*.  
+[1] **Research on Adaptive Assessment Framework Driven by Cognitive Diagnosis**, _ECNU Academic Innovation Promotion Program for Excellent Doctoral Students_, *2024.06 - 2024.10*, *Principal Investigator*.  
+[2] **Research on Cognitive Diagnosis Framework Driven by Continual Learning**, _ECNU Interdisciplinary Research Grant Project_, *2024.11 - 2025.06*, *Principal Investigator*.  
 
 
 Professional Services
