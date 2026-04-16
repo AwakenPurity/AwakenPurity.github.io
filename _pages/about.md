@@ -31,6 +31,9 @@ Publications
 [2026] The Best of Two Worlds: An IRT-Enhanced Framework for Interpretable and Generalizable Automated Essay Scoring  
    Wei Xia, **Jin Wu**, Chanjin Zheng. 2026 **Amercian Educational Research Association** (AREA, Top Education Conference).  
 
+[2026] Human-Computer Co-creation Theoretical Framework Based on the Creativity-5A Model (基于创造性5A模型的人机共创理论框架)
+   Chanjin Zheng, Xiangyu Wang, Xiaowen Li, **Jin Wu**, Hong Qian, Jiajun Guo. 2026, **中国教育政策评论**.  
+
 [2026] FCRD: Forced-Choice Relation-based Diagnosis for Noncognitive Assessment  
   Yukun Tu, Xiaoyu Li, Haoran Shi, **Jin Wu**, Chanjin Zheng. 2026 **DASFAA**.  
 
