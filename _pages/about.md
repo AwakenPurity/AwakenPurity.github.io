@@ -61,10 +61,11 @@ Projects
 
 Professional Services
 ======
-* Reviewer for **The Pacific Rim International Conference on Artificial Intelligence (PRICAI)**.
-* Reviewer for **IEEE International Conference on Acoustics, Speech, and Signal Processing ([ICASSP](./files/Reviewer_ICASSP.pdf))**.
 * Reviewer for **Journal of Grid Computing**.
 * Reviewer for **Scientific Reports**.
 * Reviewer for **Health Information Science and Systems**.
+* Reviewer for **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**.
+* Reviewer for **The Pacific Rim International Conference on Artificial Intelligence (PRICAI)**.
+* Reviewer for **International Joint Conference on Neural Networks (IJCNN)**.
 
 
